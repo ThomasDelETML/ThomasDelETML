@@ -20,6 +20,11 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=c-sharp)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-000?style=flat&logo=figma)
+
 
 ---
 
